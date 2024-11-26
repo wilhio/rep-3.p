@@ -1,0 +1,14 @@
+project/
+├── index.html          # Your main HTML file
+├── assets/
+│   ├── audios/
+│   │   └── audio assignment.mp3
+│   ├── videos/
+│   │   ├── video assignment complete.mp4
+│   │   └── creative component.mp4
+│   ├── images/
+│   │   ├── Data visualization prompt and output.jpg
+│   │   ├── IMG_5961 3.heic
+│   │   ├── IMG_5970 2.PNG
+│   │   └── Pike Engineering.jpg
+├── README.md           # Optional readme file
